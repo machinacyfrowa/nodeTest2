@@ -1,0 +1,14 @@
+{
+  "name": "nodetest",
+  "version": "0.0.1",
+  "description": "Test prostej aplikacji www opartej na nodejs",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodemon index.js"
+  },
+  "author": "Paweł Zawadzki",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.2"
+  }
+}
